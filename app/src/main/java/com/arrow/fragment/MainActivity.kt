@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
     private var fragmentTwo: FragmentTwo = FragmentTwo()
 
     private val fragmentOneTag = "Fragment One"
-    private val fragmentTwoTag = "Fragment One"
+    private val fragmentTwoTag = "Fragment Two"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
